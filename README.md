@@ -64,6 +64,6 @@ http://localhost:3000
 ### Images
 - **Pencile**
 ![Pencile](./assets/Screenshot%202024-12-12%20204816.png)
--- **Eraser**
+- **Eraser**
 ![Eraser](./assets/Screenshot%202024-12-12%20204829.png)
 
