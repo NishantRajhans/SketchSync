@@ -52,12 +52,18 @@ npm run dev
 http://localhost:3000
 ```
 ### **Usage**
--**Drawing:** Select the pencil tool, adjust the color and width, and start drawing on the canvas.
--**Erasing:** Choose the eraser tool, adjust its size, and remove any unwanted parts of your sketch.
--**Undo/Redo:** Use the undo/redo buttons to fix mistakes or recover previous edits.
--**Download:** Click the download button to save your sketch as an image file.
+- **Drawing:** Select the pencil tool, adjust the color and width, and start drawing on the canvas.
+- **Erasing:** Choose the eraser tool, adjust its size, and remove any unwanted parts of your sketch.
+- **Undo/Redo:** Use the undo/redo buttons to fix mistakes or recover previous edits.
+- **Download:** Click the download button to save your sketch as an image file.
 ### Technologies Used
 -Frontend: Next.js
 -State Management: Redux Toolkit
 -Backend (if any): Node.js
 -Canvas API: For drawing functionality
+### Images
+- **Pencile**
+![Pencile](./assets/Screenshot%202024-12-12%20204816.png)
+-- **Eraser**
+![Eraser](./assets/Screenshot%202024-12-12%20204829.png)
+
